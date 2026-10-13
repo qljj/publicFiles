@@ -1,3 +1,4 @@
 payload:
   - '+.chatgpt.com'
   - '+.openai.com'
+  - '+.cloudflare.com'
