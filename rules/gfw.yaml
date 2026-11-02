@@ -5878,3 +5878,4 @@ payload:
   - '+.amazonaws.com'
   - '+.cloudfront.net'
   - '+.signin.aws'
+  - '+.aws.dev'
