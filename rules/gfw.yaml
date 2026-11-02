@@ -5877,4 +5877,4 @@ payload:
   - '+.primevideo.com'
   - '+.amazonaws.com'
   - '+.cloudfront.net'
-  - '+..signin.aws'
+  - '+.signin.aws'
