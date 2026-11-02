@@ -5879,3 +5879,5 @@ payload:
   - '+.cloudfront.net'
   - '+.signin.aws'
   - '+.aws.dev'
+  - '+.awsstatic.com'
+  - '+.api.aws'
