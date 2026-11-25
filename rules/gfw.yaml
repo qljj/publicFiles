@@ -5881,3 +5881,4 @@ payload:
   - '+.aws.dev'
   - '+.awsstatic.com'
   - '+.api.aws'
+  - '+.microsoft.com'
